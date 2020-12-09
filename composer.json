@@ -1,5 +1,5 @@
 {
-    "name": "yedincisenol/dynamic-links-php5.6",
+    "name": "donetechno/dynamic-links-php5.6",
     "description": "Firebase Dynamic Links for Php and Laravel",
     "type": "library",
     "require": {
